@@ -1,0 +1,30 @@
+/*Primary color #....*/
+.play-video a,
+.tab-menu-list ul li a:hover,
+a:focus,
+a:hover,
+.color-text{
+	color: #f14947;
+}
+.copyright a{
+	color: #f14947 !important;
+}
+
+.btn-primary,
+.color-bg{
+	background-color: #f14947;
+}
+.feature-video-thumb,
+.tab-menu-list,
+.btn-primary,
+.tab-menu-list ul li a:hover{
+	border-color: #f14947;
+}
+
+.igfollowcolorbg{
+	background-color: #04766c;
+}
+.igfollowcolorbg2{
+	background-color: #762c04;
+}
+
